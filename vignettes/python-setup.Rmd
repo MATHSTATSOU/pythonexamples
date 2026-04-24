@@ -224,14 +224,3 @@ research, and package development.
 *   R Core Team. *Writing R Extensions*  
     <https://cran.r-project.org/doc/manuals/r-release/R-exts.html>
 
-```
-
----
-
-✅ This file is **vignette‑ready**  
-✅ Passes `R CMD check`  
-✅ Follows reticulate best practices  
-✅ Copy → paste → done  
-
-If you want adjustments (shorter, student‑focused, CRAN comments, etc.), say the word.
-```
