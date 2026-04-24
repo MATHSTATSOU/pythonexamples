@@ -1,3 +1,5 @@
 .onLoad <- function(libname, pkgname) {
-  reticulate::py_require(c("numpy", "scipy"))
+  if (interactive()) {
+    reticulate::py_require(c("numpy", "scipy"))
+  }
 }
